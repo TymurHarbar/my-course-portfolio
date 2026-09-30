@@ -1,6 +1,6 @@
 # My Course Portfolio
 
-Welcome to my academic portfolio for IPC-146 NCC!
+Welcome to my academic portfolio for CEP-146 NCC!
 
 ## About Me
 - Name: Tymur Harbar
